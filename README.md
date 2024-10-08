@@ -51,3 +51,4 @@ swe-group-2-ecs506u-prototype/
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+# NovaTrade-Trading-Application
