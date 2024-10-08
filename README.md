@@ -1,12 +1,12 @@
-# ECS506U - Group 2 - Prototype
+# Collaborators
 
-- Abdul Ghafor Rahmatzada (220214584)
-- Naz Bilgen (220434274)
-- Brooklyn Flello (220393591)
-- Mal Hoti (220288770)
-- Faiz Aziz (220478647)
-- Juan Miguel Villalobos Sanchez (200465779)
-- Hesham Ahmed (220591267)
+- Abdul Ghafor Rahmatzada 
+- Naz Bilgen 
+- Brooklyn Flello 
+- Mal Hoti 
+- Faiz Aziz 
+- Juan Miguel Villalobos Sanchez 
+- Hesham Ahmed 
 
 # Novatrade
 
